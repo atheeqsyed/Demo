@@ -10,7 +10,7 @@ echo "<br>";
 echo "Third Element: $intArray[2]\n\n";
 echo "<br>";
 
-//returns data type and value
+//returns data type and value!
 var_dump($intArray);
 
 
