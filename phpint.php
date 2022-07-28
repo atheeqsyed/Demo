@@ -5,5 +5,3 @@ var_dump($x);
 echo "<br>";
 var_export($x);
 ?>
-
-//
