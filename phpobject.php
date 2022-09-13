@@ -6,7 +6,7 @@
 <body>
 
 <?php
-// Class definition
+// Class def
 class greeting{
     // properties
     public $str = "Hello World!";
