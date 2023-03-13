@@ -10,7 +10,7 @@ echo "<br>";
 
 //returns data type and value!
 var_dump($intArray);
-//Atheeq
+//Athiq
 
 //Reverse a string without using strrev lib funcation
 $name = 'ATHEEQ';
